@@ -1,7 +1,3 @@
-<!--
-  https://zzetao.github.io/awesome-github-profile/
--->
-
 # Hi 👋 I'm shirokuma1101
 
 <!--
@@ -61,22 +57,41 @@
   https://github.com/vn7n24fzkq/github-profile-summary-cards
 
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=400px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&layout=compact"/>
+<!-- LightMode -->
+<a href="https://github.com/shirokuma1101">
+  <img width=400px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=default&show_icons=true#gh-light-mode-only"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=400px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101"/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=815px, src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirokuma1101"/>
+<a href="https://github.com/shirokuma1101">
+  <img width=400px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=default&layout=compact#gh-light-mode-only"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirokuma1101"/>
+<a href="https://github.com/shirokuma1101">
+  <img width=815px, src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirokuma1101&theme=default#gh-light-mode-only"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&utcOffset=9"/>
+
+<a href="https://github.com/shirokuma1101">
+  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirokuma1101&theme=default#gh-light-mode-only"/>
+</a>
+<a href="https://github.com/shirokuma1101">
+  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&theme=default&utcOffset=9#gh-light-mode-only"/>
+</a>
+<!-- DarkMode -->
+<a href="https://github.com/shirokuma1101">
+  <img width=400px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=tokyonight&show_icons=true#gh-dark-mode-only"/>
+</a>
+<a href="https://github.com/shirokuma1101">
+  <img width=400px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=tokyonight&layout=compact#gh-dark-mode-only"/>
+</a>
+
+<a href="https://github.com/shirokuma1101">
+  <img width=815px, src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirokuma1101&theme=tokyonight#gh-dark-mode-only"/>
+</a>
+
+<a href="https://github.com/shirokuma1101">
+  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirokuma1101&theme=tokyonight#gh-dark-mode-only"/>
+</a>
+<a href="https://github.com/shirokuma1101">
+  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&theme=tokyonight&utcOffset=9#gh-dark-mode-only"/>
 </a>
 
 <!--
@@ -101,4 +116,10 @@ IP, SG, FE
 
 #### Hobby
 地域巡り, 写真撮影, 映画鑑賞, テニス, キャンプ
+-->
+
+<!--
+
+  https://zzetao.github.io/awesome-github-profile/
+
 -->
