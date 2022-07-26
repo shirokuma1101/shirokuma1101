@@ -58,40 +58,40 @@
 
 -->
 <!-- LightMode -->
-<a href="https://github.com/shirokuma1101">
-  <img width=400px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=default&show_icons=true#gh-light-mode-only"/>
+<a href="https://github.com/shirokuma1101#gh-light-mode-only">
+  <img width=400px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=default&show_icons=true"/>
 </a>
-<a href="https://github.com/shirokuma1101">
-  <img width=400px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=default&layout=compact#gh-light-mode-only"/>
-</a>
-
-<a href="https://github.com/shirokuma1101">
-  <img width=815px, src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirokuma1101&theme=default#gh-light-mode-only"/>
+<a href="https://github.com/shirokuma1101#gh-light-mode-only">
+  <img width=400px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=default&layout=compact"/>
 </a>
 
-<a href="https://github.com/shirokuma1101">
-  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirokuma1101&theme=default#gh-light-mode-only"/>
+<a href="https://github.com/shirokuma1101#gh-light-mode-only">
+  <img width=815px, src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirokuma1101&theme=default"/>
 </a>
-<a href="https://github.com/shirokuma1101">
-  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&theme=default&utcOffset=9#gh-light-mode-only"/>
+
+<a href="https://github.com/shirokuma1101#gh-light-mode-only">
+  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirokuma1101&theme=default"/>
+</a>
+<a href="https://github.com/shirokuma1101#gh-light-mode-only">
+  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&theme=default&utcOffset=9"/>
 </a>
 <!-- DarkMode -->
-<a href="https://github.com/shirokuma1101">
-  <img width=400px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=tokyonight&show_icons=true#gh-dark-mode-only"/>
+<a href="https://github.com/shirokuma1101#gh-dark-mode-only">
+  <img width=400px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=tokyonight&show_icons=true"/>
 </a>
-<a href="https://github.com/shirokuma1101">
-  <img width=400px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=tokyonight&layout=compact#gh-dark-mode-only"/>
-</a>
-
-<a href="https://github.com/shirokuma1101">
-  <img width=815px, src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirokuma1101&theme=tokyonight#gh-dark-mode-only"/>
+<a href="https://github.com/shirokuma1101#gh-dark-mode-only">
+  <img width=400px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=tokyonight&layout=compact"/>
 </a>
 
-<a href="https://github.com/shirokuma1101">
-  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirokuma1101&theme=tokyonight#gh-dark-mode-only"/>
+<a href="https://github.com/shirokuma1101#gh-dark-mode-only">
+  <img width=815px, src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirokuma1101&theme=tokyonight"/>
 </a>
-<a href="https://github.com/shirokuma1101">
-  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&theme=tokyonight&utcOffset=9#gh-dark-mode-only"/>
+
+<a href="https://github.com/shirokuma1101#gh-dark-mode-only">
+  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirokuma1101&theme=tokyonight"/>
+</a>
+<a href="https://github.com/shirokuma1101#gh-dark-mode-only">
+  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&theme=tokyonight&utcOffset=9"/>
 </a>
 
 <!--
