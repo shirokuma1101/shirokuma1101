@@ -59,10 +59,10 @@
 -->
 <!-- LightMode -->
 <a href="https://github.com/shirokuma1101#gh-light-mode-only">
-  <img width=400px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=default&show_icons=true"/>
+  <img width=430px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=default&show_icons=true"/>
 </a>
 <a href="https://github.com/shirokuma1101#gh-light-mode-only">
-  <img width=400px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=default&layout=compact"/>
+  <img width=360px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=default&layout=compact"/>
 </a>
 
 <a href="https://github.com/shirokuma1101#gh-light-mode-only">
@@ -100,13 +100,13 @@ IP, SG, FE
 <dl>
   <dt>Programming Languages</dt>
   <dd>C, C++, Java, JavaScript, Python</dd>
-  
+
   <dt>Database</dt>
   <dd>InfluxDB, MariaDB, MySQL, SQLite</dd>
-  
+
   <dt>Data Visualization</dt>
   <dd>Grafana</dd>
-  
+
   <dt>DevOps</dt>
   <dd>Docker, GCP</dd>
 
