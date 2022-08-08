@@ -77,10 +77,10 @@
 </a>
 <!-- DarkMode -->
 <a href="https://github.com/shirokuma1101#gh-dark-mode-only">
-  <img width=400px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=tokyonight&show_icons=true"/>
+  <img width=430px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=tokyonight&show_icons=true"/>
 </a>
 <a href="https://github.com/shirokuma1101#gh-dark-mode-only">
-  <img width=400px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=tokyonight&layout=compact"/>
+  <img width=360px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=tokyonight&layout=compact"/>
 </a>
 
 <a href="https://github.com/shirokuma1101#gh-dark-mode-only">
