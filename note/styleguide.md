@@ -36,6 +36,12 @@ indent_size = 4
 [*.go]
 indent_style = tab
 
+[*.{hlsl,hlsli}]
+indent_size = 4
+
+[*.py]
+indent_size = 4
+
 [*.rs]
 indent_size = 4
 
