@@ -59,19 +59,19 @@ indent_size = 4
 
 ### Git commit message
 
-| normal word | light word | description                           |
-| ----------- | ---------- | ------------------------------------- |
-| add         | add        | Add new file                          |
-| docs        | update     | Add or change docs                    |
-| chore       | update     | Change build process, packaging, etc. |
-| feat        | update     | Add new features                      |
-| fix         | fix        | Fix bugs                              |
-| refactor    | update     | Refactor code                         |
-| style       | update     | Change code style                     |
-| test        | update     | Add or change test code               |
-| revert      | revert     | Undo a previous commit                |
-| remove      | remove     | delete file                           |
-| rename      | rename     | rename file                           |
+| normal word | light word | description                                 |
+| ----------- | ---------- | ------------------------------------------- |
+| add         | add        | Add new file                                |
+| docs        | update     | Add or change docs (not including comments) |
+| chore       | update     | Change build process, packaging, etc.       |
+| feat        | update     | Add new features                            |
+| fix         | fix        | Fix bugs                                    |
+| refactor    | update     | Non-destructive code changes                |
+| style       | update     | Change code style (including comments)      |
+| test        | update     | Add or change test code                     |
+| revert      | revert     | Undo a previous commit                      |
+| remove      | remove     | delete file                                 |
+| rename      | rename     | rename file                                 |
 
 ## C++
 
@@ -84,6 +84,28 @@ indent_size = 4
 | Enumerate member | CONSTANT_CASE |
 | Variable         | camelCase     |
 | Function         | PascalCase    |
+
+### 優先順位
+
+- pragma once
+- define (include guard)
+- include (standard library (using <>))
+- include (internal library (using "")), pragma comment (as needed)
+- include (third party library (using "")), pragma comment (as needed)
+- pragma warning (as needed)
+- class, struct, namespace
+- public, protected, private
+- constructor, destructor
+- getter, setter
+- member variable
+
+### 役割について
+
+- namespace
+  - inlineを必ず付ける
+  - 定数にはconstexperを利用する
+- class, struct
+  - 一つでも関数を定義する場合はclass、変数のみの場合はstructを使用する
 
 ### 変数について
 
