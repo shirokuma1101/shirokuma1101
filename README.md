@@ -1,21 +1,5 @@
 # Hi 👋 I'm shirokuma1101
 
-<style>
-  .solid-style-table {
-    border-collapse: collapse;
-    border: 1px solid #333;
-  }
-  .solid-style-table th {
-    border: 1px solid #333;
-    background-color: #333;
-    color: #fff;
-  }
-  .solid-style-table td {
-    border: 1px solid #333;
-    text-align: center;
-  }
-</style>
-
 ## Contact me
 
 <a href="https://twitter.com/kd_shirokuma">
@@ -31,7 +15,7 @@
 
 -->
 
-<table class="solid-style-table">
+<table>
   <tr>
     <th>IPA</th>
     <td>IP</td>
@@ -99,7 +83,7 @@
 
 -->
 
-<table class="solid-style-table">
+<table>
   <tr>
     <th>Github</th>
     <td>
