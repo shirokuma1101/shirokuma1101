@@ -6,68 +6,6 @@
   <img src="https://img.shields.io/twitter/follow/kd_shirokuma" />
 </a>
 
-## Skills
-
-<!--
-
-  GitHub Profile README Generator
-  https://rahuldkjain.github.io/gh-profile-readme-generator/
-
--->
-
-<table>
-  <tr>
-    <th>IPA</th>
-    <td>IP</td>
-    <td>SG</td>
-    <td>FE</td>
-  </tr>
-  <tr>
-    <th>Programming Languages</th>
-    <td>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th>Frontend Development</th>
-    <td>
-      <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th>Game Engines</th>
-    <td>
-      <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## Stats
 
 <!--
@@ -203,6 +141,68 @@
 <a href="https://github.com/shirokuma1101#gh-dark-mode-only">
   <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&theme=tokyonight&utcOffset=9"/>
 </a>
+
+## Skills
+
+<!--
+
+  GitHub Profile README Generator
+  https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+-->
+
+<table>
+  <tr>
+    <th>IPA</th>
+    <td>IP</td>
+    <td>SG</td>
+    <td>FE</td>
+  </tr>
+  <tr>
+    <th>Programming Languages</th>
+    <td>
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Frontend Development</th>
+    <td>
+      <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Game Engines</th>
+    <td>
+      <a href="https://unity.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## My Repositories rules
 
