@@ -87,17 +87,20 @@ indent_size = 4
 
 ### 優先順位
 
-- pragma once
-- define (include guard)
-- include (standard library (using <>))
-- include (internal library (using "")), pragma comment (as needed)
-- include (third party library (using "")), pragma comment (as needed)
-- pragma warning (as needed)
-- class, struct, namespace
-- public, protected, private
-- constructor, destructor
-- getter, setter
-- member variable
+それぞれの優先順位の間には空行を入れる
+
+1. pragma once
+2. define (include guard)
+3. include (standard library (using <>) e.g. `<memory>`)
+4. include (system library (using <>) e.g. `<Windows.h>`), pragma comment (as needed)
+5. include (internal library (using "")), pragma comment (as needed)
+6. include (third party library (using "")), pragma comment (as needed)
+7. pragma warning (as needed)
+8. class, struct, namespace
+9. public, protected, private
+10. constructor, destructor
+11. getter, setter
+12. member variable
 
 ### 役割について
 
