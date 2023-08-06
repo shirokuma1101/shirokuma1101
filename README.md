@@ -72,11 +72,14 @@
 
 <!--
 
-  GitHub Profile Views Counter
-  https://github.com/antonkomarev/github-profile-views-counter
-
   Shields
   https://shields.io
+
+  Badge It
+  https://pufler.dev/badge-it/
+
+  GitHub Profile Views Counter
+  https://github.com/antonkomarev/github-profile-views-counter
 
   Badge Generator
   https://badgen.org/
@@ -87,12 +90,22 @@
   <tr>
     <th>Github</th>
     <td>
-      <a href="https://github.com/shirokuma1101/shirokuma1101">
+      <a href="https://github.com/shirokuma1101">
         <img src="https://img.shields.io/github/followers/shirokuma1101?logo=Github" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/shirokuma1101/shirokuma1101">
+      <a href="https://github.com/shirokuma1101?tab=repositories">
+        <img src="https://badges.pufler.dev/repos/shirokuma1101?logo=Github" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shirokuma1101?tab=repositories">
+        <img src="https://badges.pufler.dev/commits/all/shirokuma1101?logo=Github" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shirokuma1101">
         <img src="https://komarev.com/ghpvc/?username=shirokuma1101" />
       </a>
     </td>
@@ -136,8 +149,6 @@
       <a href="https://zenn.dev/shirokuma1101?tab=books">
         <img src="https://badgen.org/img/zenn/shirokuma1101/books?style=plastic" alt="Books" />
       </a>
-    </td>
-    <td>
       <a href="https://zenn.dev/shirokuma1101?tab=scraps">
         <img src="https://badgen.org/img/zenn/shirokuma1101/scraps?style=plastic" alt="Scraps" />
       </a>
