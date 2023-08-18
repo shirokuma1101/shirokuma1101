@@ -1,8 +1,8 @@
 # Style Guide
 
-shirokuma1101リポジトリ内でのStyle Guide
+Style Guide for shirokuma1101 repository
 
-## スタイルについて
+## About style
 
 | name              | style                |
 | ----------------- | -------------------- |
@@ -47,7 +47,7 @@ indent_size = 4
 
 ```
 
-## 総合的な命名規則
+## Comprehensive naming convention
 
 [初心者プログラマーのための変数/関数/メソッドの英語命名規則](https://qiita.com/YutaManaka/items/62dda256bb7ba6c08399)
 
@@ -59,19 +59,19 @@ indent_size = 4
 
 ### Git commit message
 
-| normal word | light word | description                                 |
-| ----------- | ---------- | ------------------------------------------- |
-| add         | add        | Add new file                                |
-| docs        | update     | Add or change docs (not including comments) |
-| chore       | update     | Change build process, packaging, etc.       |
-| feat        | update     | Add new features                            |
-| fix         | fix        | Fix bugs                                    |
-| refactor    | update     | Non-destructive code changes                |
-| style       | update     | Change code style (including comments)      |
-| test        | update     | Add or change test code                     |
-| revert      | revert     | Undo a previous commit                      |
-| remove      | remove     | delete file                                 |
-| rename      | rename     | rename file                                 |
+| normal word | light word | description                                                                                |
+| ----------- | ---------- | ------------------------------------------------------------------------------------------ |
+| add         | add        | Add new file (except docs file and test file)                                              |
+| chore       | update     | Change build process, packaging, etc.                                                      |
+| docs        | update     | Add or change docs<br>(Use "style" when writing directly in the source file)               |
+| feat        | update     | Add new features                                                                           |
+| fix         | fix        | Fix bugs                                                                                   |
+| refactor    | update     | Non-destructive code changes                                                               |
+| style       | update     | Change code style<br>(Including when writing comments or docs directly in the source file) |
+| test        | update     | Add or change test code                                                                    |
+| remove      | remove     | Delete file                                                                                |
+| rename      | rename     | Rename file                                                                                |
+| revert      | revert     | Undo a previous commit                                                                     |
 
 ## C++
 
