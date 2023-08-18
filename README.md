@@ -70,25 +70,25 @@
     <th>Zenn</th>
     <td>
       <a href="https://zenn.dev/shirokuma1101">
-        <img src="https://badgen.org/img/zenn/shirokuma1101/followers?style=plastic" alt="Followers" />
+        <img src="https://badgen.org/img/zenn/shirokuma1101/followers?style=flat" alt="Followers" />
       </a>
     </td>
     <td>
       <a href="https://zenn.dev/shirokuma1101">
-        <img src="https://badgen.org/img/zenn/shirokuma1101/articles?style=plastic" alt="Articles" />
+        <img src="https://badgen.org/img/zenn/shirokuma1101/articles?style=flat" alt="Articles" />
       </a>
     </td>
     <td>
       <a href="https://zenn.dev/shirokuma1101">
-        <img src="https://badgen.org/img/zenn/shirokuma1101/likes?style=plastic" alt="Likes" />
+        <img src="https://badgen.org/img/zenn/shirokuma1101/likes?style=flat" alt="Likes" />
       </a>
     </td>
     <td>
       <a href="https://zenn.dev/shirokuma1101?tab=books">
-        <img src="https://badgen.org/img/zenn/shirokuma1101/books?style=plastic" alt="Books" />
+        <img src="https://badgen.org/img/zenn/shirokuma1101/books?style=flat" alt="Books" />
       </a>
       <a href="https://zenn.dev/shirokuma1101?tab=scraps">
-        <img src="https://badgen.org/img/zenn/shirokuma1101/scraps?style=plastic" alt="Scraps" />
+        <img src="https://badgen.org/img/zenn/shirokuma1101/scraps?style=flat" alt="Scraps" />
       </a>
     </td>
   </tr>
