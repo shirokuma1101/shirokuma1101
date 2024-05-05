@@ -1,0 +1,13 @@
+site_name: Takuma Shirooka's Portfolio
+
+repo_url: https://github.com/shirokuma1101/shirokuma1101
+edit_uri: blob/main/
+docs_dir: '..'
+
+theme:
+  name: material
+nav:
+  - Home: README.md
+  - Portfolio: portfolio/portfolio.md
+  - Note:
+    - StyleGuide: note/styleguide.md
