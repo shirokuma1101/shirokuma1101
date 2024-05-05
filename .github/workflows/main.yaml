@@ -13,6 +13,15 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+# Permissions for the workflow
+permissions:
+  # The permissions required by the GitHub token to check out code
+  contents: read
+  # The permissions required by the GitHub token to deploy to GitHub Pages
+  pages: write
+  # The permissions required by the GitHub token to upload artifacts
+  id-token: write
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -38,13 +47,33 @@ jobs:
           python -m pip install -U pip
           pip install mkdocs-material
 
+      # Set site path to env
+      - name: Set site path to env
+        run: |
+          echo "site_path=$(realpath ../site)" >> $GITHUB_ENV
+
       # Build and deploy local build
       - name: mkdocs local build
         run: |
-        cd mkdocs
-        mkdocs build --clean --no-directory-urls
+          cd mkdocs
+          mkdocs build --clean --no-directory-urls --site-dir ../../site
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: LocalSite
-          path: ./site/
+          path: ${{ env.site_path }}
+
+      # Build and deploy to GitHub Pages
+      - name: mkdocs io build
+        run: |
+          cd mkdocs
+          mkdocs build --clean --use-directory-urls --site-dir ../../site
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v4
+      - name: Upload artifacts
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ env.site_path }}
+      - name : Deploy to Github Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
