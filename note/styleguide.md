@@ -26,6 +26,9 @@ charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
 
+[*.{bat,cmd}]
+end_of_line = crlf
+
 [*.{c,h,cc,hh,cpp,hpp}]
 indent_size = 4
 charset = utf-8-bom
@@ -55,7 +58,7 @@ indent_size = 4
 
 ### Git Repository
 
-リポジトリ名はkebab-caseで記述する
+リポジトリ名は`KebabCase`で記述する。
 
 ### Git commit message
 
@@ -75,67 +78,102 @@ indent_size = 4
 
 ## C++
 
-|                  |               |
-| ---------------- | ------------- |
-| Constant         | CONSTANT_CASE |
-| Class            | PascalCase    |
-| Structure        | PascalCase    |
-| Enumerate        | PascalCase    |
-| Enumerate member | CONSTANT_CASE |
-| Variable         | camelCase     |
-| Function         | PascalCase    |
+### Style Guide
 
-### 優先順位
+|             |              |
+| ----------- | ------------ |
+| Constant    | ConstantCase |
+| class       | PascalCase   |
+| struct      | PascalCase   |
+| enum        | PascalCase   |
+| Enum member | ConstantCase |
+| Variable    | CamelCase    |
+| Function    | PascalCase   |
 
-それぞれの優先順位の間には空行を入れる
+### Priority
 
-1. pragma once
-2. define (include guard)
-3. include (standard library (using <>) e.g. `<memory>`)
-4. include (system library (using <>) e.g. `<Windows.h>`), pragma comment (as needed)
-5. include (internal library (using "")), pragma comment (as needed)
-6. include (third party library (using "")), pragma comment (as needed)
-7. pragma warning (as needed)
-8. class, struct, namespace
-9. public, protected, private
-10. constructor, destructor
-11. getter, setter
-12. member variable
+それぞれの優先順位の間には空行を入れる。
 
-### 役割について
+1. File description (Doxygen style is preferred)
+2. Include guard (pragma once)
+3. include guard (ifndef, define e.g. `#ifndef HOGE_H_`)
+4. include (standard library (using <>) e.g. `<memory>`)
+5. include (system library (using <>) e.g. `<Windows.h>`), pragma comment (as needed)
+6. include (internal library (using "")), pragma comment (as needed)
+7. include (third party library (using "")), pragma comment (as needed)
+8. pragma warning (as needed)
+9. namespace, enum, struct, class
+10. public, protected, private
+11. constructor, destructor
+12. getter, setter
+13. member variable
+
+### About roles
 
 - namespace
-  - inlineを必ず付ける
-  - 定数にはconstexperを利用する
+  - `inline`を必ず付ける
+  - 定数は`constexper`を利用する
 - class, struct
-  - 一つでも関数を定義する場合はclass、変数のみの場合はstructを使用する
+  - 一つでも関数を定義する場合はclass、変数のみの場合はstructを使用する。
 
-### 変数について
+### About variable
 
-但し以下の場合は接頭辞を使用し、camelCase、PascalCaseを使用する
+但し以下の場合は接頭辞を使用し、`CamelCase`、`PascalCase`を併用する。
 
 |                  |                |
 | ---------------- | -------------- |
-| Global Variable  | g_{camelCase}  |
-| Private Variable | m_{camelCase}  |
+| Global Variable  | g_{CamelCase}  |
+| Private Variable | m_{CamelCase}  |
 | Pointer          | p{PascalCase}  |
 | Shared Pointer   | sp{PascalCase} |
 | Unique Pointer   | up{PascalCase} |
 | Weak Pointer     | wp{PascalCase} |
+
+### About definition
+
+`ifdef`、`ifndef`を利用する場合は`endif`のコメントにdefine名を記述する。<br>
+(e.g. `#endif //HOGE_H_`)
+
+## C\#
+
+### Style Guide
+
+|             |              |
+| ----------- | ------------ |
+| Constant    | ConstantCase |
+| class       | PascalCase   |
+| struct      | PascalCase   |
+| enum        | PascalCase   |
+| Enum member | PascalCase   |
+| Method      | PascalCase   |
+| Property    | PascalCase   |
+| field       | CamelCase    |
+
+### Priority
+
+1. using
+2. namespace
+3. enum
+4. struct, class
+5. constant
+6. property
+7. field
+8. static method
+9. method
 
 ## Python
 
 PEP8に準拠
 [PEP8](https://pep8-ja.readthedocs.io/ja/latest/)
 
-|                   |               |
-| ----------------- | ------------- |
-| Constant          | CONSTANT_CASE |
-| Class             | PascalCase    |
-| Raise             | PascalCase    |
-| Package           | lowercase     |
-| Module            | snake_case    |
-| Function, Method  | snake_case    |
-| Variable          | snake_case    |
-| Internal Function | _snake_case   |
-| Internal Variable | _snake_case   |
+|                   |                         |
+| ----------------- | ----------------------- |
+| Constant          | ConstantCase            |
+| Class             | PascalCase              |
+| Raise             | PascalCase              |
+| Package           | lowercase               |
+| Module            | SnakeCase               |
+| Function, Method  | SnakeCase               |
+| Variable          | SnakeCase               |
+| Internal Function | SnakeCase with _ prefix |
+| Internal Variable | SnakeCase with _ prefix |

@@ -204,10 +204,6 @@
   </tr>
 </table>
 
-## My Repositories rules
-
-[styleguide](/note/styleguide.md)
-
 <!--
 
   https://zzetao.github.io/awesome-github-profile/
