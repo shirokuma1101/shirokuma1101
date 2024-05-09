@@ -1,9 +1,9 @@
-# Hi 👋 I'm shirokuma1101
+# [Hi 👋 I'm shirokuma1101](https://shirokuma1101.github.io/shirokuma1101/)
 
 ## Contact me
 
 <a href="https://twitter.com/kd_shirokuma">
-  <img src="https://img.shields.io/twitter/follow/kd_shirokuma" />
+  <img src="https://img.shields.io/twitter/follow/kd_shirokuma" alt="Twitter"/>
 </a>
 
 ## Stats
@@ -29,22 +29,22 @@
     <th>Github</th>
     <td>
       <a href="https://github.com/shirokuma1101">
-        <img src="https://img.shields.io/github/followers/shirokuma1101?logo=Github" />
+        <img src="https://img.shields.io/github/followers/shirokuma1101?logo=Github" alt="GitHub Followers"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/shirokuma1101?tab=repositories">
-        <img src="https://badges.pufler.dev/repos/shirokuma1101?logo=Github" />
+        <img src="https://badges.pufler.dev/repos/shirokuma1101?logo=Github" alt="GitHub Repos"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/shirokuma1101?tab=repositories">
-        <img src="https://badges.pufler.dev/commits/all/shirokuma1101?logo=Github" />
+        <img src="https://badges.pufler.dev/commits/all/shirokuma1101?logo=Github" alt="GitHub Commits"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/shirokuma1101">
-        <img src="https://komarev.com/ghpvc/?username=shirokuma1101" />
+        <img src="https://komarev.com/ghpvc/?username=shirokuma1101" alt="Profile Views"/>
       </a>
     </td>
   </tr>
@@ -52,17 +52,17 @@
     <th>Qiita</th>
     <td>
       <a href="https://qiita.com/shirokuma1101">
-        <img src="https://badgen.org/img/qiita/shirokuma1101/followers?style=flat" alt="Followers" />
+        <img src="https://badgen.org/img/qiita/shirokuma1101/followers?style=flat" alt="Qiita Followers"/>
       </a>
     </td>
     <td>
       <a href="https://qiita.com/shirokuma1101">
-        <img src="https://badgen.org/img/qiita/shirokuma1101/articles?style=flat" alt="Articles" />
+        <img src="https://badgen.org/img/qiita/shirokuma1101/articles?style=flat" alt="Qiita Articles"/>
       </a>
     </td>
     <td>
       <a href="https://qiita.com/shirokuma1101">
-        <img src="https://badgen.org/img/qiita/shirokuma1101/contributions?style=flat" alt="Contributions" />
+        <img src="https://badgen.org/img/qiita/shirokuma1101/contributions?style=flat" alt="Qiita Contributions"/>
       </a>
     </td>
   </tr>
@@ -70,25 +70,25 @@
     <th>Zenn</th>
     <td>
       <a href="https://zenn.dev/shirokuma1101">
-        <img src="https://badgen.org/img/zenn/shirokuma1101/followers?style=flat" alt="Followers" />
+        <img src="https://badgen.org/img/zenn/shirokuma1101/followers?style=flat" alt="Zenn Followers"/>
       </a>
     </td>
     <td>
       <a href="https://zenn.dev/shirokuma1101">
-        <img src="https://badgen.org/img/zenn/shirokuma1101/articles?style=flat" alt="Articles" />
+        <img src="https://badgen.org/img/zenn/shirokuma1101/articles?style=flat" alt="Zenn Articles"/>
       </a>
     </td>
     <td>
       <a href="https://zenn.dev/shirokuma1101">
-        <img src="https://badgen.org/img/zenn/shirokuma1101/likes?style=flat" alt="Likes" />
+        <img src="https://badgen.org/img/zenn/shirokuma1101/likes?style=flat" alt="Zenn Likes"/>
       </a>
     </td>
     <td>
       <a href="https://zenn.dev/shirokuma1101?tab=books">
-        <img src="https://badgen.org/img/zenn/shirokuma1101/books?style=flat" alt="Books" />
+        <img src="https://badgen.org/img/zenn/shirokuma1101/books?style=flat" alt="Zenn Books"/>
       </a>
       <a href="https://zenn.dev/shirokuma1101?tab=scraps">
-        <img src="https://badgen.org/img/zenn/shirokuma1101/scraps?style=flat" alt="Scraps" />
+        <img src="https://badgen.org/img/zenn/shirokuma1101/scraps?style=flat" alt="Zenn Scraps"/>
       </a>
     </td>
   </tr>
@@ -106,40 +106,40 @@
 
 <!-- LightMode -->
 <a href="https://github.com/shirokuma1101#gh-light-mode-only">
-  <img width=455px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=default&show_icons=true"/>
+  <img width=455px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=default&show_icons=true#only-light" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/shirokuma1101#gh-light-mode-only">
-  <img width=345px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=default&layout=compact"/>
-</a>
-
-<a href="https://github.com/shirokuma1101#gh-light-mode-only">
-  <img width=805px, src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirokuma1101&theme=default"/>
+  <img width=345px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=default&layout=compact#only-light" alt="GitHub Top Languages"/>
 </a>
 
 <a href="https://github.com/shirokuma1101#gh-light-mode-only">
-  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirokuma1101&theme=default"/>
+  <img width=805px, src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirokuma1101&theme=default#only-light" alt="GitHub Profile Details"/>
+</a>
+
+<a href="https://github.com/shirokuma1101#gh-light-mode-only">
+  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirokuma1101&theme=default#only-light" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/shirokuma1101#gh-light-mode-only">
-  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&theme=default&utcOffset=9"/>
+  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&theme=default&utcOffset=9#only-light" alt="GitHub Productive Time"/>
 </a>
 
 <!-- DarkMode -->
 <a href="https://github.com/shirokuma1101#gh-dark-mode-only">
-  <img width=455px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=tokyonight&show_icons=true"/>
+  <img width=455px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=tokyonight&show_icons=true#only-dark" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/shirokuma1101#gh-dark-mode-only">
-  <img width=345px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=tokyonight&layout=compact"/>
-</a>
-
-<a href="https://github.com/shirokuma1101#gh-dark-mode-only">
-  <img width=805px, src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirokuma1101&theme=tokyonight"/>
+  <img width=345px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=tokyonight&layout=compact#only-dark" alt="GitHub Top Languages"/>
 </a>
 
 <a href="https://github.com/shirokuma1101#gh-dark-mode-only">
-  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirokuma1101&theme=tokyonight"/>
+  <img width=805px, src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirokuma1101&theme=tokyonight#only-dark" alt="GitHub Profile Details"/>
+</a>
+
+<a href="https://github.com/shirokuma1101#gh-dark-mode-only">
+  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirokuma1101&theme=tokyonight#only-dark" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/shirokuma1101#gh-dark-mode-only">
-  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&theme=tokyonight&utcOffset=9"/>
+  <img width=400px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&theme=tokyonight&utcOffset=9#only-dark" alt="GitHub Productive Time"/>
 </a>
 
 ## Skills
