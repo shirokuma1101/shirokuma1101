@@ -134,6 +134,10 @@ indent_size = 4
 `ifdef`、`ifndef`を利用する場合は`endif`のコメントにdefine名を記述する。<br>
 (e.g. `#endif //HOGE_H_`)
 
+### About braces
+
+トップレベルの関数のみ改行し、それ以外の場合は全て横に記述する
+
 ## C\#
 
 ### Style Guide
