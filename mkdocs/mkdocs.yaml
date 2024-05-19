@@ -44,9 +44,11 @@ nav:
       - All Your Weapons: portfolio/works/allyourweapons.md
       - Noctem: portfolio/works/noctem.md
       - Prank Heart: portfolio/works/prankheart.md
+    - Skills: portfolio/skills/skills.md
     - Hobby: portfolio/hobby/hobby.md
   - Note:
     - StyleGuide: note/styleguide.md
+    - VscodeSetting: note/vscodesetting.md
 
 extra_css:
   - css/extra.css
