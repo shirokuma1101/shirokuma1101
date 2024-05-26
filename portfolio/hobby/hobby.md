@@ -33,10 +33,9 @@ PSU : Silverstone SFX 300W<br>
 
 ### Device
 
-Smartphone : iPhone 7 Plus, Galaxy Note10+ (SC-01M), Galaxy Fold5 (CD-55D)<br>
+Smartphone : iPhone 7 Plus, Galaxy Note10+ (SC-01M), Galaxy Fold5 (SC-55D)<br>
 Tablet : iPad Pro 12.9 4th-Gen<br>
 IoT : Raspberry Pi 4 Model B 4GB element14, SwitchBot Hub 2<br>
-
 
 ## ゲーム
 
