@@ -1,5 +1,11 @@
 # [Hi 👋 I'm shirokuma1101](https://shirokuma1101.github.io/shirokuma1101/)
 
+[![Deploy mkdocs](https://github.com/shirokuma1101/shirokuma1101/actions/workflows/main.yaml/badge.svg)](https://github.com/shirokuma1101/shirokuma1101/actions/workflows/main.yaml)
+
+このPortfolioは継続的にDeployされています。<br>
+Latest deploy : [https://shirokuma1101.github.io/shirokuma1101/](https://shirokuma1101.github.io/shirokuma1101/)<br>
+Repository : [https://github.com/shirokuma1101/shirokuma1101](https://github.com/shirokuma1101/shirokuma1101)
+
 ## Contact me
 
 <a href="https://twitter.com/kd_shirokuma">
