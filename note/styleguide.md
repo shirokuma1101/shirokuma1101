@@ -15,6 +15,8 @@ Style Guide for shirokuma1101 repository
 
 ### .editorconfig
 
+<details><summary>Click to show</summary>
+
 ``` .editorconfig
 root = true
 
@@ -36,6 +38,113 @@ charset = utf-8-bom
 [*.cs]
 indent_size = 4
 
+;https://learn.microsoft.com/ja-jp/dotnet/fundamentals/code-analysis/style-rules/
+
+dotnet_diagnostic.IDE0005.severity = error
+csharp_using_directive_placement = outside_namespace:error
+
+csharp_prefer_braces = true:error
+csharp_prefer_simple_using_statement = true:error
+csharp_style_namespace_declarations = block_scoped:error
+csharp_style_prefer_method_group_conversion = true:error
+csharp_style_prefer_top_level_statements = true:error
+csharp_style_prefer_top_level_statements = true:error
+csharp_style_prefer_primary_constructors = true:error
+
+csharp_style_expression_bodied_constructors = true:error
+csharp_style_expression_bodied_methods = true:error
+csharp_style_expression_bodied_operators = true:error
+csharp_style_expression_bodied_properties = true:error
+csharp_style_expression_bodied_indexers = true:error
+csharp_style_expression_bodied_accessors = true:error
+csharp_style_expression_bodied_lambdas = true:error
+csharp_style_expression_bodied_local_functions = true:error
+
+dotnet_diagnostic.IDE0001.severity = error
+dotnet_diagnostic.IDE0002.severity = error
+dotnet_diagnostic.IDE0004.severity = error
+dotnet_diagnostic.IDE0010.severity = error
+dotnet_style_object_initializer = true:error
+dotnet_style_collection_initializer = true:error
+dotnet_style_prefer_collection_expression = true:error
+dotnet_style_coalesce_expression = true:error
+dotnet_style_null_propagation = true:error
+dotnet_style_prefer_auto_properties = true:error
+dotnet_style_explicit_tuple_names = true:error
+dotnet_diagnostic.IDE0035.severity = error
+dotnet_style_prefer_inferred_tuple_names = true:error
+dotnet_style_prefer_inferred_anonymous_type_member_names = true:error
+dotnet_style_prefer_is_null_check_over_reference_equality_method = true:error
+dotnet_style_prefer_conditional_expression_over_assignment = true:error
+dotnet_style_prefer_conditional_expression_over_return = true:error
+dotnet_diagnostic.IDE0050.severity = error
+dotnet_diagnostic.IDE0051.severity = error
+dotnet_diagnostic.IDE0052.severity = error
+dotnet_style_prefer_compound_assignment = true:error
+csharp_style_unused_value_expression_statement_preference = discard_variable:error
+csharp_style_unused_value_assignment_preference = discard_variable:error
+dotnet_diagnostic.IDE0070.severity = error
+dotnet_style_prefer_simplified_interpolation = true:error
+dotnet_style_prefer_simplified_boolean_expressions = true:error
+dotnet_diagnostic.IDE0082.severity = none ;none
+dotnet_diagnostic.IDE0100.severity = error
+dotnet_diagnostic.IDE0120.severity = error
+dotnet_style_namespace_match_folder = true:error
+
+csharp_style_throw_expression = true:error
+csharp_style_inlined_variable_declaration = true:error
+csharp_prefer_simple_default_expression = true:error
+csharp_style_prefer_local_over_anonymous_function = true:error
+csharp_style_deconstructed_variable_declaration = true:error
+csharp_style_prefer_index_operator = true:error
+csharp_style_prefer_range_operator = true:error
+dotnet_diagnostic.IDE0072.severity = error
+dotnet_diagnostic.IDE0080.severity = error
+csharp_style_implicit_object_creation_when_type_is_apparent = true:error
+dotnet_diagnostic.IDE0110.severity = error
+csharp_style_prefer_null_check_over_type_check = true:error
+csharp_style_prefer_tuple_swap = true:error
+dotnet_style_prefer_foreach_explicit_cast_in_source = when_strongly_typed:error ;when_strongly_typed
+csharp_style_prefer_utf8_string_literals = true:error
+dotnet_diagnostic.IDE0240.severity = error
+dotnet_diagnostic.IDE0241.severity = error
+dotnet_style_prefer_collection_expression = true:error
+
+dotnet_style_readonly_field = false:none ;false
+
+dotnet_style_predefined_type_for_locals_parameters_members = true:none ;none
+dotnet_style_predefined_type_for_member_access = true:none ;none
+
+csharp_preferred_modifier_order = public, private, protected, internal, file, static, extern, new, virtual, abstract, sealed, override, readonly, unsafe, required, volatile, async
+dotnet_style_require_accessibility_modifiers = always
+
+csharp_prefer_static_local_function = true:suggestion ;suggestion
+dotnet_diagnostic.IDE0064.severity = error
+csharp_style_prefer_readonly_struct = true:error
+csharp_style_prefer_readonly_struct_member = true:error
+
+csharp_style_conditional_delegate_call = true:error
+dotnet_code_quality_unused_parameters = true:error
+
+csharp_style_pattern_matching_over_as_with_null_check = true:error
+csharp_style_pattern_matching_over_is_with_cast_check = true:error
+csharp_style_prefer_switch_expression = true:error
+csharp_style_prefer_pattern_matching = true:error
+csharp_style_pattern_matching_over_as_with_null_check = true:error
+csharp_style_prefer_not_pattern = true:error
+csharp_style_prefer_extended_property_pattern = true:error
+
+dotnet_remove_unnecessary_suppression_exclusions = true:error
+
+dotnet_style_qualification_for_field = false:error ;false
+dotnet_style_qualification_for_property = false:error ;false
+dotnet_style_qualification_for_method = false:error ;false
+dotnet_style_qualification_for_event = false:error ;false
+
+csharp_style_var_for_built_in_types = true:error
+csharp_style_var_when_type_is_apparent = true:error
+csharp_style_var_elsewhere = true:error
+
 [*.go]
 indent_style = tab
 
@@ -49,6 +158,8 @@ indent_size = 4
 indent_size = 4
 
 ```
+
+</details>
 
 ## Comprehensive naming convention
 
@@ -164,6 +275,14 @@ indent_size = 4
 7. field
 8. static method
 9. method
+
+### About specifier
+
+1. public/private/protected/internal
+2. static
+3. virtual, abstract, partial, override
+4. async
+5. void
 
 ## Python
 
