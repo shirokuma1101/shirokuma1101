@@ -4,7 +4,7 @@
 
 ### Main (自作)
 
-OS : Windows10 Pro<br>
+OS : Windows11 Pro<br>
 CPU : Ryzen9 3950x<br>
 GPU : MSI GAMINGX TRIO RTX 2080Ti<br>
 RAM : Trident Z Neo 16GB 3600MHz x4(64GB)<br>
@@ -30,6 +30,10 @@ RAM : crucial PC4-25600 32GB 3200MHz x2(64GB)<br>
 SSD : Samsung 960EVO 250GB<br>
 HDD : Seagate IronWolf 8TB x5(24TB) RAID6<br>
 PSU : Silverstone SFX 300W<br>
+GuestOS1(Hyper-V) : Windows11 Pro<br>
+GuestOS2(Hyper-V) : TrueNAS SCALE<br>
+GuestOS3(Hyper-V) : Windows11 Pro<br>
+GuestOS4(Hyper-V) : Windows11 Home<br>
 
 ### Device
 
@@ -39,7 +43,7 @@ IoT : Raspberry Pi 4 Model B 4GB element14, SwitchBot Hub 2<br>
 
 ## ゲーム
 
-### Headware
+### Hardware
 
 - PC
 - Nintendo 3DS
@@ -53,14 +57,14 @@ IoT : Raspberry Pi 4 Model B 4GB element14, SwitchBot Hub 2<br>
 
 ### Status
 
-- ANA LT Mile 19,358 (~2024/05/19)
-- JAL LT Mile 7,539 (~2024/05/19)
+- ANA LT Mile 21,326 (~2024/06/05)
+- JAL LT Mile 9,272 (~2024/07/19)
 - Priority Pass Prestige
 - JAL CLUB EST
 
 ### 経県値
 
-:flag_jp: **経県値:**[https://uub.jp/j.cgi/SbrFaISbqiwajrixIIirIzFhw/](https://uub.jp/j.cgi/SbrFaISbqiwajrixIIirIzFhw/)
+:flag_jp: **経県値:**[https://uub.jp/j.cgi/IirIzFhSbrFaISbqzivahaIiwho/](https://uub.jp/j.cgi/IirIzFhSbrFaISbqzivahaIiwho/)
 
 ### Flight Map (2024~)
 
@@ -68,19 +72,29 @@ IoT : Raspberry Pi 4 Model B 4GB element14, SwitchBot Hub 2<br>
   <img width="400px", src="https://banners-my.flightradar24.com/shirokuma1101.png" alt="My Flightdiary.net profile"/>
 </a>
 
-### Railway limited express
+### Railway
 
-- uシート
-- Aシート
-- ひのとり (近鉄)
-- 普通列車グリーン車
-- はまかぜ
-- 北斗
-- サンライズ瀬戸 シングル
-- 踊り子
+Limited express (First use only)
+
+- JR北海道 uシート 新千歳空港-札幌 (200?/??/??)
+- JR西日本 はるか 新大阪-関西空港 (2022/08/11)
+- JR西日本 Aシート 網干-大阪 (2023/05/31)
+- JR九州 ソニック 小倉-博多 (2023/07/31)
+- 近畿日本鉄道 ひのとり 近鉄名古屋-大阪難波 (2023/10/29)
+- JR東日本 普通列車グリーン車 深谷-武蔵小杉 (2023/11/05)
+- JR西日本 はまかぜ 城崎温泉-姫路 (2023/12/28)
+- JR北海道 北斗 白老-函館 (2024/02/15)
+- JR サンライズ瀬戸(シングル) 姫路-東京 (2024/03/19)
+- JR東日本 踊り子 川崎-湯河原 (2024/03/31)
+
+Shinkansen
+
+- 東海道新幹線 500,700,N700,N700A,N700S
+- 山陽新幹線 500,700,N700,N700A,N700S
+- 上越新幹線 E4,E7
 
 ## コンテンツ
 
 ### Anime
 
-coming soon
+- 404
