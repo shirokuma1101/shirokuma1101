@@ -2,7 +2,7 @@
 
 [![Deploy mkdocs](https://github.com/shirokuma1101/shirokuma1101/actions/workflows/main.yaml/badge.svg)](https://github.com/shirokuma1101/shirokuma1101/actions/workflows/main.yaml)
 
-このPortfolioは継続的にDeployされています。<br>
+このページを含むPortfolioは継続的にDeployされ公開しています。<br>
 Latest deploy : [https://shirokuma1101.github.io/shirokuma1101/](https://shirokuma1101.github.io/shirokuma1101/)<br>
 Repository : [https://github.com/shirokuma1101/shirokuma1101](https://github.com/shirokuma1101/shirokuma1101)
 
@@ -112,40 +112,40 @@ Repository : [https://github.com/shirokuma1101/shirokuma1101](https://github.com
 
 <!-- LightMode -->
 <a href="https://github.com/shirokuma1101#gh-light-mode-only">
-  <img width=410px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=default&show_icons=true#only-light" alt="GitHub Stats"/>
+  <img width=390px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=default&show_icons=true#only-light" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/shirokuma1101#gh-light-mode-only">
-  <img width=310px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=default&layout=compact#only-light" alt="GitHub Top Languages"/>
-</a>
-
-<a href="https://github.com/shirokuma1101#gh-light-mode-only">
-  <img width=725px, src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirokuma1101&theme=default#only-light" alt="GitHub Profile Details"/>
+  <img width=290px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=default&layout=compact#only-light" alt="GitHub Top Languages"/>
 </a>
 
 <a href="https://github.com/shirokuma1101#gh-light-mode-only">
-  <img width=360px, src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirokuma1101&theme=default#only-light" alt="GitHub Stats"/>
+  <img width=685px, src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirokuma1101&theme=default#only-light" alt="GitHub Profile Details"/>
+</a>
+
+<a href="https://github.com/shirokuma1101#gh-light-mode-only">
+  <img width=340px, src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirokuma1101&theme=default#only-light" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/shirokuma1101#gh-light-mode-only">
-  <img width=360px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&theme=default&utcOffset=9#only-light" alt="GitHub Productive Time"/>
+  <img width=340px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&theme=default&utcOffset=9#only-light" alt="GitHub Productive Time"/>
 </a>
 
 <!-- DarkMode -->
 <a href="https://github.com/shirokuma1101#gh-dark-mode-only">
-  <img width=410px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=tokyonight&show_icons=true#only-dark" alt="GitHub Stats"/>
+  <img width=390px, src="https://github-readme-stats.vercel.app/api?username=shirokuma1101&theme=tokyonight&show_icons=true#only-dark" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/shirokuma1101#gh-dark-mode-only">
-  <img width=310px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=tokyonight&layout=compact#only-dark" alt="GitHub Top Languages"/>
-</a>
-
-<a href="https://github.com/shirokuma1101#gh-dark-mode-only">
-  <img width=725px, src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirokuma1101&theme=tokyonight#only-dark" alt="GitHub Profile Details"/>
+  <img width=290px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma1101&theme=tokyonight&layout=compact#only-dark" alt="GitHub Top Languages"/>
 </a>
 
 <a href="https://github.com/shirokuma1101#gh-dark-mode-only">
-  <img width=360px, src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirokuma1101&theme=tokyonight#only-dark" alt="GitHub Stats"/>
+  <img width=685px, src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirokuma1101&theme=tokyonight#only-dark" alt="GitHub Profile Details"/>
+</a>
+
+<a href="https://github.com/shirokuma1101#gh-dark-mode-only">
+  <img width=340px, src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirokuma1101&theme=tokyonight#only-dark" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/shirokuma1101#gh-dark-mode-only">
-  <img width=360px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&theme=tokyonight&utcOffset=9#only-dark" alt="GitHub Productive Time"/>
+  <img width=340px, src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shirokuma1101&theme=tokyonight&utcOffset=9#only-dark" alt="GitHub Productive Time"/>
 </a>
 
 ## Skills
