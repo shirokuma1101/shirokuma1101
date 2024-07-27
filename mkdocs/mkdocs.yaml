@@ -41,7 +41,7 @@ nav:
     - Summary: portfolio/portfolio.md
     - Works:
       - Noctem: portfolio/works/noctem.md
-      - Game Libraries: portfolio/works/gamelibraries.md
+      - game-libraries: portfolio/works/gamelibraries.md
       - All Your Weapons: portfolio/works/allyourweapons.md
       - Prank Heart: portfolio/works/prankheart.md
       - Other works: portfolio/works/otherworks.md
