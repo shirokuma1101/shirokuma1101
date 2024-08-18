@@ -12,14 +12,14 @@
 
 制作 2021 ~
 
-- 個人ゲーム制作(非公開) (2021/04 ~ 2021/04)
-- RUN IN THE CITY(非公開) (2021/07 ~ 2021/08)
+- 個人ゲーム制作(非公開) (2021/05/01 ~ 2021/06/03)
+- RUN IN THE CITY(非公開) (2021/07/21 ~ 2021/08/31)
 - [Noctem](../works/noctem.md) (2021/11/06 ~ 2022/03/29)
-- 個人ゲーム制作(非公開) (2021/02 ~ 2022/02)
-- 個人ゲーム制作(非公開) (2021/05/16 ~ 2022/06/27)
+- 個人ゲーム制作(非公開) (2022/02/14 ~ 2022/02/21)
+- 個人ゲーム制作(非公開) (2022/05/16 ~ 2022/06/27)
 - [cuda-testcodes](https://github.com/shirokuma1101/cuda-testcodes)
 - [grpc-testcodes](https://github.com/shirokuma1101/grpc-testcodes)
-- [game-libraries](../works/gamelibraries.md) (2022/07 ~)
+- [game-libraries](../works/gamelibraries.md) (2022/07/01 ~)
 - [All Your Weapons](../works/allyourweapons.md) (2022/07/31 ~ 2023/01/29)
 - [online-ranking-system-sample](https://github.com/shirokuma1101/online-ranking-system-sample)
 
@@ -36,13 +36,13 @@
 
 制作 2021 ~
 
-- Skinning
 - Rim Light
 - Distance Fog
 - PBR
 - Phong Specular
 - Lambert Diffuse
 - Depth shadow
+- Skinning
 
 ## Python
 
@@ -59,8 +59,8 @@
 
 制作 2022 ~
 
-- [HIGH TENSION](https://x.com/kobedenshi_life/status/1688415034136043520) (2023/07/21 ~ 2024/07/22)
-- [Prank Heart](../works/prankheart.md) (2023/02 ~ 2024/03)
+- [HIGH TENSION](https://x.com/kobedenshi_life/status/1688415034136043520) (2023/07/21 ~ 2023/07/22)
+- [Prank Heart](../works/prankheart.md) (2023/04/13 ~ 2024/03/25)
 
 ## Unreal Engine
 
@@ -71,8 +71,8 @@
 
 ## Others
 
-- Google Apps Script
+- Google Cloud Platform,Google Apps Script
 - Git,GitHub
 - wxWidgets
-- Grafana,InfluxDB
-- docker,Jenkins,Google cloud platform
+- Grafana,InfluxDB,Prometheus
+- Docker,Jenkins,CMake
