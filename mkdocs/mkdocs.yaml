@@ -46,7 +46,9 @@ nav:
       - Prank Heart: portfolio/works/prankheart.md
       - Other works: portfolio/works/otherworks.md
     - Skills: portfolio/skills/skills.md
-    - Hobby: portfolio/hobby/hobby.md
+    - Hobby:
+      - Hobby: portfolio/hobby/hobby.md
+      - Network Chart: portfolio/hobby/networkchart.md
   - Note:
     - StyleGuide: note/styleguide.md
     - VscodeSetting: note/vscodesetting.md
