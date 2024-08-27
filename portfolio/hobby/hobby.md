@@ -30,10 +30,6 @@ RAM : crucial PC4-25600 32GB 3200MHz x2(64GB)<br>
 SSD : Samsung 960EVO 250GB<br>
 HDD : Seagate IronWolf 8TB x5(24TB) RAID6<br>
 PSU : Silverstone SFX 300W<br>
-GuestOS1(Hyper-V) : Windows11 Pro<br>
-GuestOS2(Hyper-V) : TrueNAS SCALE<br>
-GuestOS3(Hyper-V) : Windows11 Pro<br>
-GuestOS4(Hyper-V) : Windows11 Home<br>
 
 ### Device
 

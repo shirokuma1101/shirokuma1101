@@ -39,7 +39,8 @@ Link :<br>
 - [Game Libraries](./works/gamelibraries.md)
 - [All your weapons](./works/allyourweapons.md)
 - [Prank Heart](./works/prankheart.md)
-- [Other works](./works/otherworks.md)
+
+[Other works](./works/otherworks.md)
 
 ## Skills
 
@@ -57,5 +58,6 @@ Link :<br>
 - 自作PC
 - ゲーム
 - 旅行
+- [自宅ネットワーク](./hobby/networkchart.md)
 
 [More...](./hobby/hobby.md)

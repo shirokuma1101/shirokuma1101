@@ -16,7 +16,7 @@
 - RUN IN THE CITY(非公開) (2021/07/21 ~ 2021/08/31)
 - [Noctem](../works/noctem.md) (2021/11/06 ~ 2022/03/29)
 - 個人ゲーム制作(非公開) (2022/02/14 ~ 2022/02/21)
-- 個人ゲーム制作(非公開) (2022/05/16 ~ 2022/06/27)
+- Unstoppable Battleship(非公開) (2022/05/16 ~ 2022/06/27)
 - [cuda-testcodes](https://github.com/shirokuma1101/cuda-testcodes)
 - [grpc-testcodes](https://github.com/shirokuma1101/grpc-testcodes)
 - [game-libraries](../works/gamelibraries.md) (2022/07/01 ~)
