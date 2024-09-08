@@ -6,6 +6,7 @@ site_author: Takuma Shirooka
 repo_name: shirokuma1101
 repo_url: https://github.com/shirokuma1101/shirokuma1101
 docs_dir: '..'
+edit_uri: edit/main/
 
 copyright: Copyright © 2024 Takuma Shirooka (shirokuma1101)
 
@@ -16,24 +17,32 @@ theme:
   favicon: img/favicon.png
   features:
     - navigation.top
+    - content.code.copy
+    - content.action.view
   icon:
     repo: fontawesome/brands/github
   font:
     text: 'Noto Sans JP'
     code: 'Inconsolata'
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: blue
       accent: pink
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: indigo
       accent: pink
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Switch to system preference
 
 nav:
   - Home: README.md
@@ -73,21 +82,30 @@ extra:
       - accept
       - reject
       - manage
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
 
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
   - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
-      use_pygments: true
-      noclasses: true
-      pygments_style: monokai
       linenums: true
+      #noclasses: true
+      #pygments_style: monokai
+      #use_pygments: true
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
+
+plugins:
+  - search
+  - glightbox
 
 validation:
   nav:
