@@ -16,6 +16,10 @@ h3 {
   border-bottom: solid 4px #00eeff;
 }
 
+.logo:hover {
+  content: url('../img/logo2.jpg');
+}
+
 .md-typeset .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));

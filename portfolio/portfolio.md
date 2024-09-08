@@ -8,9 +8,7 @@
 
 ## 自己紹介
 
-<a href="">
-  <img width=400px, src="../../img/logo.png" alt="My icon"/>
-</a>
+![logo](../img/logo.png){ .logo align=left width=40% }
 
 名前 : 城岡 拓磨<br>
 趣味 : プログラミング,ゲーム,旅行,写真撮影<br>
@@ -59,5 +57,6 @@ Link :<br>
 - ゲーム
 - 旅行
 - [自宅ネットワーク](./hobby/networkchart.md)
+- [ギャラリー](./hobby/gallery.md)
 
 [More...](./hobby/hobby.md)
