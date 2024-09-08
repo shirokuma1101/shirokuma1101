@@ -47,7 +47,9 @@ IoT : Raspberry Pi 4 Model B 4GB element14, SwitchBot Hub 2<br>
 
 ### Client
 
-:fontawesome-brands-steam: **Steam:**[https://steamcommunity.com/id/shirokuma1101/](https://steamcommunity.com/id/shirokuma1101/)
+:fontawesome-brands-steam: **Steam:**
+
+<iframe src="https://gamer2810.github.io/steam-miniprofile/?interactive=true&vanityId=shirokuma1101&accountId=419348000" style="border: none;" scrolling="no" height="226px" width="344px"></iframe>
 
 ## 旅行
 
@@ -91,6 +93,21 @@ Shinkansen
 - 上越新幹線 E4,E7
 
 ## コンテンツ
+
+### Event
+
+- Comic Market 102
+- Tokyo Game Show 2023
+- supercellオーケストラコンサート 大阪
+- マジカルミライ2020 大阪
+- マジカルミライ2021 大阪
+- マジカルミライ2024 東京
+- Mrs. GREEN APPLE ARENA SHOW "Utopia"
+- Mrs. GREEN APPLE Zepp Tour 2022 ゼンジン未到とリライアンス 〜復誦編〜
+- Mrs. GREEN APPLE ARENA TOUR 2023 "NOAH no HAKOBUNE"
+- Mrs. GREEN APPLE DOME LIVE 2023 "Atlantis"
+- Mrs. GREEN APPLE 2023-2024 FC TOUR "The White Lounge"
+- Mrs. GREEN APPLE ゼンジン未到とヴェルトラウム 〜銘銘編〜
 
 ### Anime
 
