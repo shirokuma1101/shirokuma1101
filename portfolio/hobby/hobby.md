@@ -99,6 +99,7 @@ Shinkansen
 - Comic Market 102
 - Tokyo Game Show 2023
 - supercellオーケストラコンサート 大阪
+- LAWSON presents IDOLY PRIDE VENUS STAGE 2023 “未来”
 - マジカルミライ2020 大阪
 - マジカルミライ2021 大阪
 - マジカルミライ2024 東京
