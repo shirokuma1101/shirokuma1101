@@ -16,9 +16,10 @@ theme:
   logo: img/logo.png
   favicon: img/favicon.png
   features:
-    - navigation.top
-    - content.code.copy
     - content.action.view
+    - content.code.copy
+    - navigation.expand
+    - navigation.top
   icon:
     repo: fontawesome/brands/github
   font:
