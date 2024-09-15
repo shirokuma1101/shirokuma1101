@@ -81,3 +81,14 @@ h3 {
 .left-column img {
   height: 50%;
 }
+
+/* otherworks用 */
+
+.portfolio-container {
+  display: flex;
+  gap: 5px;
+}
+
+.portfolio-container p {
+  border: solid 2px #ff0000;
+}

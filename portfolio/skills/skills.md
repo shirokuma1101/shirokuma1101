@@ -28,8 +28,8 @@
 制作 2022 ~
 
 - [unity-netcode-testcode](https://github.com/shirokuma1101/unity-netcode-testcode) (2023/06/10 ~)
-- [(Customized)unity.netcode.gameobjects](https://github.com/shirokuma1101/com.unity.netcode.gameobjects) (2023/06/24 ~)
-- [unity-ngo-manager](https://github.com/shirokuma1101/unity-ngo-manager) (2023/06/27 ~)
+- [Netcode for GameObjects 1.5.1 based extended version](../works/otherworks.md#netcode-for-gameobjects-151-based-extended-version) (2023/06/24 ~)
+- [unity-ngo-manager](../works/otherworks.md#unity-ngo-manager) (2023/06/27 ~)
 - [unity-game-libraries](https://github.com/shirokuma1101/unity-game-libraries) (2023/09/29 ~)
 
 ## HLSL
@@ -53,7 +53,7 @@
 - [gdrive-pdf-dl](https://github.com/shirokuma1101/gdrive-pdf-dl) (2022/07/17 ~)
 - [ag-recorder](https://github.com/shirokuma1101/ag-recorder) (2022/07/22 ~)
 - [class-recorder](https://github.com/shirokuma1101/class-recorder) (2023/04/12 ~)
-- [Portfolio](https://shirokuma1101.github.io/shirokuma1101/) (2024/05/05 ~)
+- [Portfolio](../works/otherworks.md#portfolio) (2024/05/05 ~)
 
 ## Unity
 
@@ -61,6 +61,7 @@
 
 - [HIGH TENSION](https://x.com/kobedenshi_life/status/1688415034136043520) (2023/07/21 ~ 2023/07/22)
 - [Prank Heart](../works/prankheart.md) (2023/04/13 ~ 2024/03/25)
+- [unity6-webgpu-testcodes](https://github.com/shirokuma1101/unity6-webgpu-testcodes) (2024/09/07)
 
 ## Unreal Engine
 

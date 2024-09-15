@@ -70,11 +70,15 @@
 
 ネットワークライブラリについては、`Netcode for GameObjects`を採用しました。ただ、今回制作するにあたって使いにくい部分があったため、Forkしてカスタムしたものを利用しています。
 
-[Netcode for GameObjects 1.5.1 based extended version](https://github.com/shirokuma1101/com.unity.netcode.gameobjects)
+詳細は別のページで紹介しています。
+
+[Netcode for GameObjects 1.5.1 based extended version](./otherworks.md#netcode-for-gameobjects-151-based-extended-version)
 
 また、NetworkObjectの管理を簡単にするために管理ライブラリも作成しました。
 
-[unity-ngo-manager](https://github.com/shirokuma1101/unity-ngo-manager)
+詳細は別のページで紹介しています。
+
+[unity-ngo-manager](./otherworks.md#unity-ngo-manager)
 
 MatchMakingについては主にUnity公式サンプルを参考にしました。
 
