@@ -1,5 +1,7 @@
 # [Hi 👋 I'm shirokuma1101](https://shirokuma1101.github.io/shirokuma1101/)
 
+![header](img/header.gif)
+
 [![Deploy mkdocs](https://github.com/shirokuma1101/shirokuma1101/actions/workflows/main.yaml/badge.svg)](https://github.com/shirokuma1101/shirokuma1101/actions/workflows/main.yaml)
 
 このページを含むPortfolioは継続的にDeployされ公開しています。<br>
