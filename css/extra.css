@@ -1,3 +1,5 @@
+/* ヘッダー関連 */
+
 h2 {
   padding: 0.5em;
   color: #494949;
@@ -16,9 +18,13 @@ h3 {
   border-bottom: solid 4px #00eeff;
 }
 
+/* ロゴ */
+
 .logo:hover {
   content: url('../img/logo2.jpg');
 }
+
+/* ギャラリー用 */
 
 .md-typeset .grid {
   display: grid;
@@ -45,4 +51,33 @@ h3 {
   height: auto;
   object-fit: cover;
   border-radius: 8px;
+}
+
+/* prankheart用 */
+
+.md-typeset .image-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.md-typeset .left-column {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 55%;
+}
+
+.md-typeset .right-column {
+  width: 43%;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.left-column img {
+  height: 50%;
 }

@@ -30,12 +30,12 @@
 
 また、C++特有のメモリ管理や汎用性のある計算式などをユーティリティークラスとして作成し、開発効率を向上させました。
 
-Utilityクラス一部抜粋(一部改変)
-
 <details><summary>Click to show</summary>
 
+内容を一部抜粋、改変しています。
+
 ```cpp
-// Utilityクラス一部抜粋(一部改変)
+// Utilityクラス
 
 template<class T, class U>
 bool CheckVector(const T& _vector, const U& _begin) {

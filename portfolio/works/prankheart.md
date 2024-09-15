@@ -34,19 +34,27 @@
 
 ### デザインの工夫
 
-美術館に関しては、実際の美術館の絵画の飾り方やライティングの方法などを参考にしました。
+美術館に関しては、実際の美術館の絵画や美術品の飾り方やライティングの方法などを参考にしました。
 
-![lighting_ref](../../img/prankheart/lighting_ref.jpg)
+<div class="image-container" markdown>
+  <div class="left-column" markdown>
 
-![stage_ref](../../img/prankheart/stage_ref.jpg)
+  ![lighting_ref](../../img/prankheart/lighting_ref.jpg)
+  ![stage_ref](../../img/prankheart/stage_ref.jpg)
 
-![treasure_ref](../../img/prankheart/treasure_ref.jpg)
+  </div>
+  <div class="right-column" markdown>
 
-参考資料
+  ![treasure_ref](../../img/prankheart/treasure_ref.jpg)
+
+  </div>
+</div>
+
+> 左:大塚国際美術館、右:国立アイヌ民族博物館
 
 ![lighting](../../img/prankheart/lighting.png)
 
-Lighting例
+> Lighting例
 
 また、一部絵画やショーケース内のモデルは、私や友人が撮影した風景画像や神戸電子専門学校でリリースされたゲームの画像やモデルを許諾を得たうえで利用しています。
 
@@ -56,7 +64,7 @@ Lighting例
 
 ## 各種ライブラリ作成
 
-当初から開発期間が1年程と決まっており私の経験したことのない規模での開発であったため、当初からライブラリ化するものを選定していました。私は主にアウトゲーム担当だったので、ライブラリ作成に多く携わりました。
+開発期間が1年程と私の経験したことのない規模での開発であったため、当初からライブラリ化するものを選定していました。私は主にアウトゲーム担当だったので、ライブラリ作成に多く携わりました。
 
 ### ネットワーク関連
 
@@ -74,9 +82,9 @@ MatchMakingについては主にUnity公式サンプルを参考にしました�
 
 また、ネットワークを実現するにあたって重要なMatchMakingシステムを様々なPlatformに対応できるように抽象化クラスを作成しました。
 
-内容を一部抜粋、改変しています。
-
 <details><summary>Click to show</summary>
+
+内容を一部抜粋、改変しています。
 
 ```cs
 /// <summary>
@@ -256,15 +264,13 @@ public abstract class LobbyBase : SingletonNetworkPersistent<LobbyBase>
 }
 ```
 
-また、
-
 </details>
 
 ### Steamでリリースするにあたっての作業
 
 ![img](../../img/prankheart/debug.png)
 
-SteamのReleaseに向けてSteam MatchMakingを利用したマッチメイキングや実績、統計を実装しました。データ上の扱いが基本だったので、`UnityEditor`を利用して可視化しました。
+Steamでのリリースに向けて`Steam MatchMaking`を利用したマッチメイキングや実績、統計を実装しました。データ上の扱いが基本だったので、`UnityEditor`の拡張を利用して可視化しデバッグしやすい画面を作成しました。
 
 ### アイテムやAI用ノードポイント
 
