@@ -73,7 +73,7 @@
 ## Others
 
 - Google Cloud Platform,Google Apps Script
-- Git,GitHub,GitHub Actions,GitHub Pages
+- Git,GitHub,GitHub Actions,GitHub Pages,GitLab,GitLab CI/CD,GitLab Pages
 - wxWidgets
 - Grafana,InfluxDB,Prometheus
 - Docker,Jenkins,CMake
