@@ -8,7 +8,9 @@ repo_url: https://github.com/shirokuma1101/shirokuma1101
 docs_dir: '..'
 edit_uri: edit/main/
 
-copyright: Copyright © 2024 Takuma Shirooka (shirokuma1101)
+copyright:
+  Copyright © 2024 Takuma Shirooka (shirokuma1101)<br>
+  <a href="#__consent">Change cookie settings</a>
 
 theme:
   name: material
@@ -78,11 +80,14 @@ extra:
       link: https://twitter.com/kd_shirokuma
       name: kd_shirokuma on Twitter
   consent:
-    title: Cookie Policy
-    description: Obtain cookies to obtain your information.
+    title: Cookie consent
+    description:
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
     actions:
       - accept
-      - reject
       - manage
   analytics:
     provider: google
