@@ -42,6 +42,7 @@ IoT : Raspberry Pi 4 Model B 4GB element14, SwitchBot Hub 2<br>
 ### Hardware
 
 - PC
+- Tablet
 - Nintendo 3DS
 - Nintendo Switch
 
@@ -98,6 +99,7 @@ Shinkansen
 
 - Comic Market 102
 - Tokyo Game Show 2023
+- Tokyo Game Show 2024
 - supercellオーケストラコンサート 大阪
 - LAWSON presents IDOLY PRIDE VENUS STAGE 2023 “未来”
 - マジカルミライ2020 大阪
