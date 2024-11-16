@@ -6,6 +6,18 @@ glightbox: true
 
 <div class="grid" markdown>
 
+  ![img](../../img/gallery/IMG_10218_.JPG)
+  { .card loading=lazy }
+
+  ![img](../../img/gallery/IMG_10194_1.JPG)
+  { .card loading=lazy }
+
+  ![img](../../img/gallery/IMG_10141.JPG)
+  { .card loading=lazy }
+
+  ![img](../../img/gallery/IMG_10140.JPG)
+  { .card loading=lazy }
+
   ![img](../../img/gallery/IMG_9913.JPG)
   { .card loading=lazy }
 
