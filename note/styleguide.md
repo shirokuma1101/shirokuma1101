@@ -40,110 +40,165 @@ indent_size = 4
 
 ;https://learn.microsoft.com/ja-jp/dotnet/fundamentals/code-analysis/style-rules/
 
-dotnet_diagnostic.IDE0005.severity = error
-csharp_using_directive_placement = outside_namespace:error
+# using directive preferences
+dotnet_diagnostic.IDE0005.severity = warning
+csharp_using_directive_placement = outside_namespace:warning
 
-csharp_prefer_braces = true:error
-csharp_prefer_simple_using_statement = true:error
-csharp_style_namespace_declarations = block_scoped:error
-csharp_style_prefer_method_group_conversion = true:error
-csharp_style_prefer_top_level_statements = true:error
-csharp_style_prefer_top_level_statements = true:error
-csharp_style_prefer_primary_constructors = true:error
+# Code-block preferences
+csharp_prefer_braces = true:warning
+csharp_prefer_simple_using_statement = true:warning
+csharp_style_namespace_declarations = block_scoped:warning
+csharp_style_prefer_method_group_conversion = true:warning
+csharp_style_prefer_top_level_statements = true:warning
+csharp_style_prefer_top_level_statements = true:warning
+csharp_style_prefer_primary_constructors = true:warning
 
-csharp_style_expression_bodied_constructors = true:error
-csharp_style_expression_bodied_methods = true:error
-csharp_style_expression_bodied_operators = true:error
-csharp_style_expression_bodied_properties = true:error
-csharp_style_expression_bodied_indexers = true:error
-csharp_style_expression_bodied_accessors = true:error
-csharp_style_expression_bodied_lambdas = true:error
-csharp_style_expression_bodied_local_functions = true:error
+# Expression-bodied members
+csharp_style_expression_bodied_constructors = true:warning
+csharp_style_expression_bodied_methods = true:warning
+csharp_style_expression_bodied_operators = true:warning
+csharp_style_expression_bodied_properties = true:warning
+csharp_style_expression_bodied_indexers = true:warning
+csharp_style_expression_bodied_accessors = true:warning
+csharp_style_expression_bodied_lambdas = true:warning
+csharp_style_expression_bodied_local_functions = true:warning
 
-dotnet_diagnostic.IDE0001.severity = error
-dotnet_diagnostic.IDE0002.severity = error
-dotnet_diagnostic.IDE0004.severity = error
-dotnet_diagnostic.IDE0010.severity = error
-dotnet_style_object_initializer = true:error
-dotnet_style_collection_initializer = true:error
-dotnet_style_prefer_collection_expression = true:error
-dotnet_style_coalesce_expression = true:error
-dotnet_style_null_propagation = true:error
-dotnet_style_prefer_auto_properties = true:error
-dotnet_style_explicit_tuple_names = true:error
-dotnet_diagnostic.IDE0035.severity = error
-dotnet_style_prefer_inferred_tuple_names = true:error
-dotnet_style_prefer_inferred_anonymous_type_member_names = true:error
-dotnet_style_prefer_is_null_check_over_reference_equality_method = true:error
-dotnet_style_prefer_conditional_expression_over_assignment = true:error
-dotnet_style_prefer_conditional_expression_over_return = true:error
-dotnet_diagnostic.IDE0050.severity = error
-dotnet_diagnostic.IDE0051.severity = error
-dotnet_diagnostic.IDE0052.severity = error
-dotnet_style_prefer_compound_assignment = true:error
-csharp_style_unused_value_expression_statement_preference = discard_variable:error
-csharp_style_unused_value_assignment_preference = discard_variable:error
-dotnet_diagnostic.IDE0070.severity = error
-dotnet_style_prefer_simplified_interpolation = true:error
-dotnet_style_prefer_simplified_boolean_expressions = true:error
-dotnet_diagnostic.IDE0082.severity = none ;none
-dotnet_diagnostic.IDE0100.severity = error
-dotnet_diagnostic.IDE0120.severity = error
-dotnet_style_namespace_match_folder = true:error
+# Expression-level preferences
+dotnet_diagnostic.IDE0001.severity = warning
+dotnet_diagnostic.IDE0002.severity = warning
+dotnet_diagnostic.IDE0004.severity = warning
+dotnet_diagnostic.IDE0010.severity = warning
+dotnet_style_object_initializer = true:warning
+dotnet_style_collection_initializer = true:warning
+dotnet_style_prefer_collection_expression = true:warning
+dotnet_style_coalesce_expression = true:warning
+dotnet_style_null_propagation = true:warning
+dotnet_style_prefer_auto_properties = true:warning
+dotnet_style_explicit_tuple_names = true:warning
+dotnet_diagnostic.IDE0035.severity = warning
+dotnet_style_prefer_inferred_tuple_names = true:warning
+dotnet_style_prefer_inferred_anonymous_type_member_names = true:warning
+dotnet_style_prefer_is_null_check_over_reference_equality_method = true:warning
+dotnet_style_prefer_conditional_expression_over_assignment = true:warning
+dotnet_style_prefer_conditional_expression_over_return = true:warning
+dotnet_diagnostic.IDE0050.severity = warning
+dotnet_diagnostic.IDE0051.severity = warning
+dotnet_diagnostic.IDE0052.severity = warning
+dotnet_style_prefer_compound_assignment = true:warning
+csharp_style_unused_value_expression_statement_preference = discard_variable:warning
+csharp_style_unused_value_assignment_preference = discard_variable:warning
+dotnet_diagnostic.IDE0070.severity = warning
+dotnet_style_prefer_simplified_interpolation = true:warning
+dotnet_style_prefer_simplified_boolean_expressions = true:warning
+dotnet_diagnostic.IDE0082.severity = warning
+dotnet_diagnostic.IDE0100.severity = warning
+dotnet_diagnostic.IDE0120.severity = warning
+dotnet_style_namespace_match_folder = true:warning
 
-csharp_style_throw_expression = true:error
-csharp_style_inlined_variable_declaration = true:error
-csharp_prefer_simple_default_expression = true:error
-csharp_style_prefer_local_over_anonymous_function = true:error
-csharp_style_deconstructed_variable_declaration = true:error
-csharp_style_prefer_index_operator = true:error
-csharp_style_prefer_range_operator = true:error
-dotnet_diagnostic.IDE0072.severity = error
-dotnet_diagnostic.IDE0080.severity = error
-csharp_style_implicit_object_creation_when_type_is_apparent = true:error
-dotnet_diagnostic.IDE0110.severity = error
-csharp_style_prefer_null_check_over_type_check = true:error
-csharp_style_prefer_tuple_swap = true:error
-dotnet_style_prefer_foreach_explicit_cast_in_source = when_strongly_typed:error ;when_strongly_typed
-csharp_style_prefer_utf8_string_literals = true:error
-dotnet_diagnostic.IDE0240.severity = error
-dotnet_diagnostic.IDE0241.severity = error
-dotnet_style_prefer_collection_expression = true:error
+csharp_style_throw_expression = true:warning
+csharp_style_inlined_variable_declaration = true:warning
+csharp_prefer_simple_default_expression = true:warning
+csharp_style_prefer_local_over_anonymous_function = true:warning
+csharp_style_deconstructed_variable_declaration = true:warning
+csharp_style_prefer_index_operator = true:warning
+csharp_style_prefer_range_operator = true:warning
+dotnet_diagnostic.IDE0072.severity = warning
+dotnet_diagnostic.IDE0080.severity = warning
+csharp_style_implicit_object_creation_when_type_is_apparent = true:warning
+dotnet_diagnostic.IDE0110.severity = warning
+csharp_style_prefer_null_check_over_type_check = true:warning
+csharp_style_prefer_tuple_swap = true:warning
+dotnet_style_prefer_foreach_explicit_cast_in_source = when_strongly_typed:warning ;when_strongly_typed
+csharp_style_prefer_utf8_string_literals = true:warning
+dotnet_diagnostic.IDE0240.severity = warning
+dotnet_diagnostic.IDE0241.severity = warning
+dotnet_style_prefer_collection_expression = true:warning
 
-dotnet_style_readonly_field = false:none ;false
+# Field preferences
+dotnet_style_readonly_field = true:warning
 
+# Language keyword vs. framework types preferences
 dotnet_style_predefined_type_for_locals_parameters_members = true:none ;none
 dotnet_style_predefined_type_for_member_access = true:none ;none
 
-csharp_preferred_modifier_order = public, private, protected, internal, file, static, extern, new, virtual, abstract, sealed, override, readonly, unsafe, required, volatile, async
+# Modifier preferences
+csharp_preferred_modifier_order = public,protected,internal,private,file,static,extern,new,virtual,abstract,sealed,override,readonly,unsafe,required,volatile,async
 dotnet_style_require_accessibility_modifiers = always
 
 csharp_prefer_static_local_function = true:suggestion ;suggestion
-dotnet_diagnostic.IDE0064.severity = error
-csharp_style_prefer_readonly_struct = true:error
-csharp_style_prefer_readonly_struct_member = true:error
+dotnet_diagnostic.IDE0064.severity = warning
+csharp_style_prefer_readonly_struct = true:warning
+csharp_style_prefer_readonly_struct_member = true:warning
 
-csharp_style_conditional_delegate_call = true:error
-dotnet_code_quality_unused_parameters = true:error
+# Null-checking preferences
+csharp_style_conditional_delegate_call = true:warning
 
-csharp_style_pattern_matching_over_as_with_null_check = true:error
-csharp_style_pattern_matching_over_is_with_cast_check = true:error
-csharp_style_prefer_switch_expression = true:error
-csharp_style_prefer_pattern_matching = true:error
-csharp_style_pattern_matching_over_as_with_null_check = true:error
-csharp_style_prefer_not_pattern = true:error
-csharp_style_prefer_extended_property_pattern = true:error
+# Parameter preferences
+dotnet_code_quality_unused_parameters = true:warning
 
-dotnet_remove_unnecessary_suppression_exclusions = true:error
+# Pattern-matching preferences
+csharp_style_pattern_matching_over_as_with_null_check = true:warning
+csharp_style_pattern_matching_over_is_with_cast_check = true:warning
+csharp_style_prefer_switch_expression = true:warning
+csharp_style_prefer_pattern_matching = true:warning
+csharp_style_pattern_matching_over_as_with_null_check = true:warning
+csharp_style_prefer_not_pattern = true:warning
+csharp_style_prefer_extended_property_pattern = true:warning
 
-dotnet_style_qualification_for_field = false:error ;false
-dotnet_style_qualification_for_property = false:error ;false
-dotnet_style_qualification_for_method = false:error ;false
-dotnet_style_qualification_for_event = false:error ;false
+# Suppression preferences
+dotnet_remove_unnecessary_suppression_exclusions = true:warning
 
-csharp_style_var_for_built_in_types = true:error
-csharp_style_var_when_type_is_apparent = true:error
-csharp_style_var_elsewhere = true:error
+# This. and me. preferences
+dotnet_style_qualification_for_field = false:warning ;false
+dotnet_style_qualification_for_property = false:warning ;false
+dotnet_style_qualification_for_method = false:warning ;false
+dotnet_style_qualification_for_event = false:warning ;false
+
+# var preferences
+csharp_style_var_for_built_in_types = true:warning
+csharp_style_var_when_type_is_apparent = true:warning
+csharp_style_var_elsewhere = true:warning
+
+# Correctness
+dotnet_diagnostic.UNT0004.severity = warning
+dotnet_diagnostic.UNT0005.severity = warning
+dotnet_diagnostic.UNT0007.severity = warning
+dotnet_diagnostic.UNT0008.severity = warning
+dotnet_diagnostic.UNT0009.severity = warning
+dotnet_diagnostic.UNT0012.severity = warning
+dotnet_diagnostic.UNT0013.severity = warning
+dotnet_diagnostic.UNT0020.severity = warning
+dotnet_diagnostic.UNT0021.severity = warning
+dotnet_diagnostic.UNT0023.severity = warning
+dotnet_diagnostic.UNT0025.severity = warning
+dotnet_diagnostic.UNT0027.severity = warning
+dotnet_diagnostic.UNT0029.severity = warning
+dotnet_diagnostic.UNT0030.severity = warning
+dotnet_diagnostic.UNT0031.severity = warning
+dotnet_diagnostic.UNT0033.severity = error
+# Performance
+dotnet_diagnostic.UNT0001.severity = warning
+dotnet_diagnostic.UNT0002.severity = warning
+dotnet_diagnostic.UNT0017.severity = warning
+dotnet_diagnostic.UNT0018.severity = warning
+dotnet_diagnostic.UNT0019.severity = warning
+dotnet_diagnostic.UNT0022.severity = warning
+dotnet_diagnostic.UNT0024.severity = warning
+dotnet_diagnostic.UNT0026.severity = warning
+dotnet_diagnostic.UNT0028.severity = warning
+dotnet_diagnostic.UNT0032.severity = warning
+dotnet_diagnostic.UNT0034.severity = warning
+dotnet_diagnostic.UNT0035.severity = warning
+dotnet_diagnostic.UNT0036.severity = warning
+dotnet_diagnostic.UNT0037.severity = warning
+# TypeSafety
+dotnet_diagnostic.UNT0003.severity = warning
+dotnet_diagnostic.UNT0006.severity = error
+dotnet_diagnostic.UNT0010.severity = warning
+dotnet_diagnostic.UNT0011.severity = warning
+dotnet_diagnostic.UNT0014.severity = warning
+dotnet_diagnostic.UNT0015.severity = error
+dotnet_diagnostic.UNT0016.severity = warning
 
 [*.go]
 indent_style = tab
