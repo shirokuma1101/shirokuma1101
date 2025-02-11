@@ -57,7 +57,7 @@ IoT : Raspberry Pi 4 Model B 4GB element14, SwitchBot Hub 2<br>
 ### Status
 
 - ANA LT Mile 21,326 (~2024/06/02)
-- JAL LT Mile 9,832 (~2024/08/17)
+- JAL LT Mile 18,700 (~2025/02/12)
 - Priority Pass Prestige
 - JAL CLUB EST
 
@@ -89,8 +89,8 @@ Limited express (First use only)
 
 Shinkansen
 
-- 東海道新幹線 500,700,N700,N700A,N700S
-- 山陽新幹線 500,700,N700,N700A,N700S
+- 東海道新幹線 300,500,700,N700,N700A,N700S
+- 山陽新幹線 300,500,700,N700,N700A,N700S
 - 上越新幹線 E4,E7
 
 ## コンテンツ
