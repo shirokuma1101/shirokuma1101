@@ -11,6 +11,11 @@
   "editor.bracketPairColorization.enabled": true,
   // アクセシビリティ
   "editor.accessibilitySupport": "off",
+  // フォントの種類
+  "editor.fontFamily": "BIZ UDゴシック",
+  // フォントの太さ
+  "editor.fontWeight": "normal",
+
   // 起動時の画面
   "window.restoreWindows": "none",
   // ウェルカムページを表示
@@ -31,31 +36,30 @@
     "*.gs": "javascript"
   },
 
+  /* 言語毎の設定 */
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[markdown]": {
+    "diffEditor.ignoreTrimWhitespace": true
+  },
+  "[yaml]": {
+    "diffEditor.ignoreTrimWhitespace": true
+  },
+
   /* 拡張機能 */
 
   // C#
   "dotnet.codeLens.enableReferencesCodeLens": false,
 
-  // Markdown
-  "markdownlint.config": {
-    "MD033": false
-  },
+  // cmake
+  "cmake.pinnedCommands": [
+    "workbench.action.tasks.configureTaskRunner",
+    "workbench.action.tasks.runTask"
+  ],
 
   // drawio
   "hediet.vscode-drawio.resizeImages": null,
-
-  // powermode
-  "powermode.enabled": true,
-  "powermode.shake.intensity": 1,
-
-  // diff
-  "diffEditor.ignoreTrimWhitespace": false,
-  "[yaml]": {
-    "diffEditor.ignoreTrimWhitespace": true
-  },
-  "[markdown]": {
-    "diffEditor.ignoreTrimWhitespace": true
-  },
 
   // github copilot
   "github.copilot.enable": {
@@ -64,6 +68,15 @@
     "markdown": true,
     "scminput": false,
     "yaml": true
-  }
+  },
+
+  // markdown
+  "markdownlint.config": {
+    "MD033": false
+  },
+
+  // powermode
+  "powermode.enabled": true,
+  "powermode.shake.intensity": 1
 }
 ```
