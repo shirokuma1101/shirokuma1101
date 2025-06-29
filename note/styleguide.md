@@ -249,9 +249,9 @@ indent_size = 4
 |             |              |
 | ----------- | ------------ |
 | Constant    | ConstantCase |
-| class       | PascalCase   |
-| struct      | PascalCase   |
-| enum        | PascalCase   |
+| Class       | PascalCase   |
+| Struct      | PascalCase   |
+| Enum        | PascalCase   |
 | Enum member | ConstantCase |
 | Variable    | CamelCase    |
 | Function    | PascalCase   |
@@ -277,10 +277,10 @@ indent_size = 4
 ### About roles
 
 - namespace
-  - `inline`を必ず付ける
-  - 定数は`constexper`を利用する
+    - `inline`を必ず付ける
+    - 定数は`constexper`を利用する
 - class, struct
-  - 一つでも関数を定義する場合はclass、変数のみの場合はstructを使用する。
+    - 一つでも関数を定義する場合はclass、変数のみの場合はstructを使用する。
 
 ### About variable
 
@@ -298,7 +298,7 @@ indent_size = 4
 ### About definition
 
 `ifdef`、`ifndef`を利用する場合は`endif`のコメントにdefine名を記述する。<br>
-(e.g. `#endif //HOGE_H_`)
+e.g. `#endif //HOGE_H_`
 
 ### About braces
 
@@ -313,11 +313,11 @@ indent_size = 4
 | Constant    | ConstantCase |
 | class       | PascalCase   |
 | struct      | PascalCase   |
-| enum        | PascalCase   |
+| Enum        | PascalCase   |
 | Enum member | PascalCase   |
 | Method      | PascalCase   |
 | Property    | PascalCase   |
-| field       | CamelCase    |
+| Field       | CamelCase    |
 
 ### Priority
 
