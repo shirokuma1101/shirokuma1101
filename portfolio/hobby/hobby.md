@@ -51,7 +51,7 @@ Monitor1 : AW3821DW<br>
 Monitor2,3 : 27GL850-B<br>
 VR : Valve INDEX VR<br>
 Wireless Earphones : WF-1000XM4<br>
-Smartphone : iPhone 7 Plus, Galaxy Note10+ (SC-01M), Galaxy Fold5 (SC-55D)<br>
+Smartphone : iPhone 7 Plus, Galaxy Note10+ (SC-01M), Galaxy Fold7 (SC-56F)<br>
 Tablet : iPad Pro 12.9 4th-Gen<br>
 IoT : Raspberry Pi 4 Model B 4GB element14, SwitchBot Hub 2, SwitchBot ロック Pro<br>
 
@@ -62,7 +62,7 @@ IoT : Raspberry Pi 4 Model B 4GB element14, SwitchBot Hub 2, SwitchBot ロック
 - PC
 - Tablet
 - Nintendo 3DS
-- Nintendo Switch
+- Nintendo Switch2
 
 ### Client
 
@@ -75,8 +75,8 @@ IoT : Raspberry Pi 4 Model B 4GB element14, SwitchBot Hub 2, SwitchBot ロック
   frameborder="0"
   marginheight="0px"
   marginwidth="0px"
-  height="284px"
-  width="344px"
+  height="269px"
+  width="328px"
   allowfullscreen
   >
 </iframe>
@@ -86,13 +86,13 @@ IoT : Raspberry Pi 4 Model B 4GB element14, SwitchBot Hub 2, SwitchBot ロック
 ### Status
 
 - ANA LT Mile 21,326 (~2024/06/02)
-- JAL LT Mile 33,489 (~2025/05/11)
-- JAL CLUB EST SAPPHIRE
+- JAL LT Mile 62,041 (~2026/02/15)
+- JAL CLUB EST DIAMOND
 - Priority Pass Standard
 
 ### 経県値
 
-:flag_jp: **経県値:**[https://uub.jp/j.cgi/IkeIzIthbvFaISbqziutahaziqkeho/](https://uub.jp/j.cgi/IkeIzIthbvFaISbqziutahaziqkeho/)
+:flag_jp: **経県値:**[https://uub.jp/j.cgi/rbvFaISbqziqtftahaIiqkfthIArIzjv/](https://uub.jp/j.cgi/rbvFaISbqziqtftahaIiqkfthIArIzjv/)
 
 ### Flight Map (2024~)
 
@@ -130,22 +130,29 @@ Shinkansen
 
 ### Event
 
-- Comic Market 102
-- Tokyo Game Show 2023
-- Tokyo Game Show 2024
-- supercellオーケストラコンサート 大阪
-- LAWSON presents IDOLY PRIDE VENUS STAGE 2023 “未来”
-- マジカルミライ2020 大阪
-- マジカルミライ2021 大阪
-- マジカルミライ2024 東京
-- Mrs. GREEN APPLE ARENA SHOW "Utopia"
-- Mrs. GREEN APPLE Zepp Tour 2022 ゼンジン未到とリライアンス 〜復誦編〜
-- Mrs. GREEN APPLE ARENA TOUR 2023 "NOAH no HAKOBUNE"
-- Mrs. GREEN APPLE DOME LIVE 2023 "Atlantis"
-- Mrs. GREEN APPLE 2023-2024 FC TOUR "The White Lounge"
-- Mrs. GREEN APPLE ゼンジン未到とヴェルトラウム 〜銘銘編〜
-- Mrs. GREEN APPLE on "Harmony"
+- (2025-01-11) Tokyo Auto Salon 2025
+- (2026-01-10) Tokyo Auto Salon 2026
+- (2023-08-12) Comic Market 102
+- (2024-05-04) 東京ゲームダンジョン5
+- (2023-09-21) Tokyo Game Show 2023
+- (2024-09-26) Tokyo Game Show 2024
+- (2025-09-25) Tokyo Game Show 2025
+- (2024-08-11) supercellオーケストラコンサート 大阪
+- (2023-02-18) LAWSON presents IDOLY PRIDE VENUS STAGE 2023 “未来”
+- (2020-11-28) マジカルミライ2020 大阪
+- (2021-10-23) マジカルミライ2021 大阪
+- (2024-09-01) マジカルミライ2024 東京
+- (2025-08-31) マジカルミライ2025 東京
+- (2022-07-08) Mrs. GREEN APPLE ARENA SHOW "Utopia"
+- (2022-12-06) Mrs. GREEN APPLE Zepp Tour 2022 ゼンジン未到とリライアンス 〜復誦編〜
+- (2023-07-16) Mrs. GREEN APPLE ARENA TOUR 2023 "NOAH no HAKOBUNE"
+- (2023-08-13) Mrs. GREEN APPLE DOME LIVE 2023 "Atlantis"
+- (2023-12-26) Mrs. GREEN APPLE 2023-2024 FC TOUR "The White Lounge"
+- (2024-07-07) Mrs. GREEN APPLE ゼンジン未到とヴェルトラウム 〜銘銘編〜
+- (2024-10-16) Mrs. GREEN APPLE on "Harmony"
+- (2025-07-26) MGA MAGICAL 10 YEARS ANNIVERSARY LIVE ～FJORD～
+- (2025-12-16) Mrs. GREEN APPLE DOME TOUR 2025 "BABEL no TOH"
 
 ### Anime
 
-- 404
+491 作品 / 全7595作品 4273 話 / 全99956話 継続月数：27ヶ月
