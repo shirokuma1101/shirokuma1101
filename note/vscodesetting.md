@@ -30,6 +30,8 @@
   "workbench.tree.renderIndentGuides": "always",
   // インデントサイズ
   "workbench.tree.indent": 16,
+  // フォルダ表示の圧縮
+  "explorer.compactFolders": false,
 
   /* 拡張子毎の設定 */
   "files.associations": {
