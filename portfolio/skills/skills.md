@@ -96,4 +96,5 @@
 
 ### Frontend
 
+- WPF
 - wxWidgets
